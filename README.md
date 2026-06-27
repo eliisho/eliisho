@@ -6,8 +6,6 @@
 - Currently working with PHP, CodeIgniter 4, and MySQL
 - Interested in web development, data science, and business intelligence
 
----
-
 ## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -16,8 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
-
----
 
 ## Get in Touch
 
