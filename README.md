@@ -16,9 +16,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 **Data & Analytics**
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6600?style=flat&logo=rapidminer&logoColor=white)
 ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat&logo=googledatastudio&logoColor=white)
+
 **ERP**
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 
@@ -27,7 +29,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Web Salon](https://github.com/eliisho/web-salon) | Web-based salon management system | CI4, MySQL, HTML/CSS |
-| [Employee Contract Monitoring](https://github.com/eliisho/employee-contract-monitoring) | Contract monitoring web app — internship project | Laravel, MySQL, HTML/CSS |
+| [Employee Contract Monitoring](https://github.com/eliisho/employee-contract-monitoring) | Contract monitoring web app — internship project at Baracoal | Laravel, MySQL, HTML/CSS |
 
 
 ## Get in Touch
